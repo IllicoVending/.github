@@ -1,1 +1,1 @@
-# .github
+Vue globale du projet MakerHub
